@@ -1,0 +1,43 @@
+#myProgress {
+    width: 600px;
+    background-color: grey;
+    text-align: left;
+}
+  
+#myBar {
+    width: 0%;
+    height: 30px;
+    background-color: green;
+}
+#myProgress2 {
+    width: 600px;
+    background-color: grey;
+    text-align: left;
+}
+  
+#myBar2 {
+    width: 0%;
+    height: 30px;
+    background-color: green;
+}
+#camera{
+    height:250px;
+    width:300px;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style:inherit;
+    z-index:2;
+    position:relative;
+    color: rgb(0, 0, 0);
+}
+#selfie{
+    height:250px;
+    width:300px;
+    border-width:5px;
+    border-style: ridge;
+}
+body{
+    background-color:aquamarine;
+}
